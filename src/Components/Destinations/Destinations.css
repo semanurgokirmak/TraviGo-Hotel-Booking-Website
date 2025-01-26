@@ -1,0 +1,15 @@
+.desi .title {
+  margin: 0;
+  background-color: #a47dab; /* Varsayılan arka plan rengi */
+  transition: background-color 0.3s ease; /* Geçiş animasyonu */
+}
+
+.desi .title:hover {
+  background-color: #7c4a7c; /* Hover durumundaki arka plan rengi */
+}
+
+.desi h3 {
+  margin: 0;
+  padding: 15px 0 15px 0;
+  color: white;
+}
